@@ -1,11 +1,3 @@
-中国
-美国
-俄罗斯
-日本
-欧盟
-乌克兰
-黄金
-白银
 web3
 btc
 eth
@@ -18,6 +10,15 @@ chatgpt
 gemini
 cursor
 claude code
+中国
+美国
+俄罗斯
+日本
+欧盟
+乌克兰
+黄金
+白银
+
 
 DeepSeek
 梁文锋
